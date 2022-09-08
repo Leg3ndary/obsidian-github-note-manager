@@ -1,0 +1,10 @@
+{
+	"id": "obsidian-github-note-manager",
+	"name": "Github Note Manager",
+	"version": "1.0.0",
+	"minAppVersion": "0.15.0",
+	"description": "This plugin allows for managing notes in a Github repository.",
+	"author": "_Leg3ndary#0001",
+	"authorUrl": "https://github.com/Leg3ndary/obsidian-github-note-manager",
+	"isDesktopOnly": true
+}
